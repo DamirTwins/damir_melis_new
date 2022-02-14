@@ -1,0 +1,195 @@
+.b{
+    width: 1440px;
+    height: 420px;
+}
+.dannyi{
+    margin-left: 80px;
+}
+.block-1 {
+    display: flex;
+
+}
+.organization{
+    display: flex;
+    margin-left: 10px;
+}
+.block-p1{
+    Font-size: 14px;
+    Line-height: 18px;
+    margin-left: 80px;
+}
+.block-p2{
+    Font-size:14px;
+    Line-height:18px;
+    margin-left: 144px;
+}
+.mega{
+    width: 200px;
+    height: 48px;
+    padding-left: 10px;
+    Font-size: 14px;
+    Line-height: 18px;
+    border-radius: 8px;
+    margin-left: 60px;
+}
+.ved-i{
+    width: 408px;
+    height: 48px;
+    padding-left: 10px;
+    Font-size: 14px;
+    Line-height: 18px;
+    border-radius: 8px;
+    margin-left: 8px;
+}
+.block-2{
+    display: flex;
+}
+.block-2p1{
+    Font-size: 14px;
+    Line-height: 18px;
+    margin-left: 80px;
+}
+.block-2p2{
+    Font-size: 14px;
+    Line-height: 18px;
+    margin-left: 170px;
+}
+.empty{
+    display: flex;
+}
+.empty1{
+    width: 308px;
+    height: 48px;
+    margin-left: 70px;
+    border-radius: 8px;
+}
+.empty2{
+    width: 308px;
+    height: 48px;
+    margin-left: 8px;
+    border-radius: 8px;
+}
+.svedeniye{
+    margin-left: 80px;
+    Font-size: 14px;
+    Line-height: 18px;
+}
+.iphonexs{
+    width: 625px;
+    height: 48px;
+    margin-left: 70px;
+    border-radius: 8px;
+    padding-left: 10px;
+    Font-size: 14px;
+    Line-height: 18px;
+}
+.block-3{
+    display: flex;
+}
+.block-3p1{
+    Font-size: 14px;
+    Line-height:18px;
+    color: #000000;
+    margin-left: 80px;
+}
+.block-3p2{
+    Font-size: 14px;
+    Line-height:18px;
+    color: #000000;
+    margin-left: 108px;
+}
+.block-3p3{
+    Font-size: 14px;
+    Line-height:18px;
+    color: #000000;
+    margin-left: 99px;
+}
+.input{
+    display: flex;
+}
+.input1{
+    Font-size: 14px;
+    Line-height: 18px;
+    width: 190px;
+    height: 48px;
+    margin-left: 70px;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+.input2{
+    Font-size: 14px;
+    Line-height: 18px;
+    width: 190px;
+    height: 48px;
+    margin-left: 8px;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+.input3{
+    Font-size: 14px;
+    Line-height: 18px;
+    width: 190px;
+    height: 48px;
+    margin-left: 8px;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+.block-4{
+    display: flex;
+
+}
+.block-4p1{
+    Font-size: 14px;
+    Line-height: 18px;
+    margin-left: 80px;
+    color: #000000;
+}
+.block-4p2{
+    Font-size: 14px;
+    Line-height: 18px;
+    margin-left: 135px;
+    color: #000000;
+}
+.block-4p3{
+    Font-size: 14px;
+    Line-height: 18px;
+    margin-left: 89px;
+    color: #000000;
+}
+.select{
+    display: flex;
+    gap: 10px;
+}
+.select1{
+    width: 200px;
+    height: 48px;
+    margin-left: 70px;
+
+    border-radius: 8px;
+    color: #DADADA;
+}
+.select2{
+    width: 200px;
+    height: 48px;
+
+    border-radius: 8px;
+    color: #DADADA;
+}
+.select3{
+    width: 200px;
+    height: 48px;
+
+    border-radius: 8px;
+    color: #DADADA;
+}
+.oformit{
+    Font-size: 16px;
+    Line-height: 20px;
+    width: 408px;
+    height: 48px;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 8px;
+    margin-left: 184px;
+    margin-top: 50px;
+}
